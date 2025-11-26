@@ -16,7 +16,7 @@
 
 ## Observability
 
-[Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
+[Monitoring Linux Processes using Prometheus and Grafana](https://www.junosnotes.com/devops/monitoring-linux-processes-using-prometheus-and-grafana/)
 
 [Давайте обсудим мониторинг](https://habr.com/ru/articles/551264/)
 
