@@ -21,3 +21,5 @@
 [Давайте обсудим мониторинг](https://habr.com/ru/articles/551264/)
 
 [Поговорим о централизованном логировании](https://habr.com/ru/articles/551582/)
+
+[Практическое руководство по реализации Observability в DevOps](https://habr.com/ru/companies/ruvds/articles/701034)
